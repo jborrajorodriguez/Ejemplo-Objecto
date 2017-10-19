@@ -16,6 +16,7 @@ public class ExemploObxecto {
         //tamen
         System.out.println("Color Semaforo 3 = "+outroSemaforo.dimeCor());
         //Probando a compartir el repositorio
+        //Prueba realizada con exito.
     
     }
     
